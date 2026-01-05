@@ -1,10 +1,10 @@
 {
   "name": "angular-aria-lts",
-  "version": "1.8.4",
+  "version": "1.8.5",
   "license": "MIT",
   "main": "./angular-aria.js",
   "ignore": [],
   "dependencies": {
-    "angular": "1.8.4"
+    "angular": "1.8.5"
   }
 }
