@@ -1,2 +1,3 @@
-require('./angular-aria');
-module.exports = 'ngAria';
+import './angular-aria.js';
+
+export default window.ngAria;
